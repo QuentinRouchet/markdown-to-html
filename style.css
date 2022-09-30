@@ -52,6 +52,7 @@ header img {
 	border-radius: 800px;
 	float: left;
 	margin: 0 50px;
+	object-fit: cover;
 }
 header p{
 	padding: 10px 0;
